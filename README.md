@@ -28,4 +28,4 @@
 
 ### 📬 Contactos
 
-- 💬 Discord: _sxlvador_
+- 💬 Discord: Sxlvador

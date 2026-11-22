@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Sou o Salvador</h1>
 
-<!--
-**sxlvadorrr/sxlvadorrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de programação em Lisboa, Portugal 🇵🇹
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋‍♂️ Sobre mim
+
+🎓 Estudo na Escola Profissional Gustave Eiffel, na Amadora Centro.
+
+💡 Gosto de criar projetos a partir de ideias simples. Se tenho uma ideia, construo-a.
+
+🌱 Estou a aprender programação e a praticar com projetos em grupo e sozinho.
+
+
+---
+
+### ⚡ Factos rápidos (Hobbies)
+
+- 🏋️ O meu hobby favorito é o ginásio.
+- 🎮 Jogar videojogos.
+- 💪 Treinar.
+- 👯 Passar tempo com os amigos.
+
+---
+
+### 📬 Contactos
+
+- 💬 Discord: sxlvador_
